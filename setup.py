@@ -1,4 +1,6 @@
 
+import setuptools
+
 from numpy.distutils.core import setup, Extension
 from numpy.distutils.misc_util import Configuration
 
